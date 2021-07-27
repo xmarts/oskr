@@ -2,3 +2,8 @@
 	path = xmarts/abc-category
 	url = git@github.com:xmarts/abc-category.git
 	branch = 14.0
+
+[submodule "xmarts/l10n-mx-xml-invoice"]
+	path = xmarts/l10n-mx-xml-invoice
+	url = git@github.com:xmarts/l10n-mx-xml-invoice.git
+	branch = 14.0
