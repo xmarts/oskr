@@ -1,0 +1,4 @@
+[submodule "xmarts/abc-category"]
+	path = xmarts/abc-category
+	url = git@github.com:xmarts/abc-category.git
+	branch = 14.0
